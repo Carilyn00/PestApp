@@ -514,7 +514,7 @@
 	<properties>
 		<!-- Dependency versions -->
 		<glassfish-jsp-2.1.version>2.1.v20100127</glassfish-jsp-2.1.version>
-		<jetty.version>8.0.1.v20110908</jetty.version>
+		<jetty.version>10.0.10</jetty.version>
 		<spring.version>3.0.6.RELEASE</spring.version>
 		<aspectjrt.version>1.6.11</aspectjrt.version>
 		<persistence-api.version>1.0</persistence-api.version>
